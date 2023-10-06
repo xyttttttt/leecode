@@ -1,6 +1,8 @@
 package main.lesson5_stack;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 import java.util.Stack;
 import java.util.function.Consumer;
 
